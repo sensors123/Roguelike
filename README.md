@@ -76,7 +76,7 @@
     * `<math.h>`
     * `<shlobj.h>` (用于特定 Windows 功能)
     * `winmm.lib` (通过 `#pragma comment(lib, "winmm.lib")` 链接，用于多媒体功能，如声音播放)
-* **开发环境 (IDE):** Visual Studio 2022
+* **开发环境 (IDE):** Visual Studio 2026
 * **操作系统 (OS):** Windows
 
 ## 安装与运行 (Setup & Run)
